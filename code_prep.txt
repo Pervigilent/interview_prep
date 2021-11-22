@@ -1,0 +1,24 @@
+Andy,
+
+I am watching YouTube episodes on coding interviews. I will summarize my findings and suggestions in this document. I will put all example code on the Github repository. I suggest several things:
+
+(1) We should conduct 2 mock interviews per month, including coding questions.
+(2) We should start off doing freeCodeCamp and focus on
+	(a) Coding Interview Prep - please put your submissions in the Github repository
+	(b) JavaScript Algorithms and Data Structures Certification
+(2) We should buy and share a subscription to AlgoExpert and Leetcode.
+
+Tech With Tim
+How to PASS a Coding Interview - Tips, Advice & Resources
+https://www.youtube.com/watch?v=ckW4cUqui_w
+Tech With Tim recommends:
+AlgoExpert https://www.algoexpert.io/techwithtim
+Leetcode Premium https://leetcode.com/subscribe/
+
+freeCodeCamp
+https://www.freecodecamp.org/learn
+Coding Interview Prep
+https://www.freecodecamp.org/learn/coding-interview-prep/
+
+W3 Schools - JavaScript Tutorials
+https://www.w3schools.com/js/default.asp
