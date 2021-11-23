@@ -2,7 +2,7 @@
 // Author: Stewart Nash (nash_)
 // Website: freeCodeCamp (fcc_)
 // Series: Coding Interview Prep (cip_)
-// Assignment: No Repeats Please (003)
+// Assignment: Algorithms - No Repeats Please (003)
 // https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/no-repeats-please
 
 /*

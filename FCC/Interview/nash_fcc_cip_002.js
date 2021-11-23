@@ -2,7 +2,7 @@
 // Author: Stewart Nash (nash_)
 // Website: freeCodeCamp (fcc_)
 // Series: Coding Interview Prep (cip_)
-// Assignment: Inventory Update (002)
+// Assignment: Algorithms - Inventory Update (002)
 // https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/inventory-update
 
 function addUnique(arr1, arr2) {
