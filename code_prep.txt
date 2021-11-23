@@ -1,19 +1,126 @@
-Andy,
 
-I am watching YouTube episodes on coding interviews. I will summarize my findings and suggestions in this document. I will put all example code on the Github repository. I suggest several things:
+Andy and Stewart's Interview Preparation:
 
-(1) We should conduct 2 mock interviews per month, including coding questions.
-(2) We should start off doing freeCodeCamp and focus on
+(1) Conduct at least 2 mock interviews per month, including coding questions.
+(2) Start off doing freeCodeCamp and focus on
 	(a) Coding Interview Prep - please put your submissions in the Github repository
-	(b) JavaScript Algorithms and Data Structures Certification
-(2) We should buy and share a subscription to AlgoExpert and Leetcode.
+	(b) JavaScript Algorithms and Data Structures Certification - to learn JavaScript
+(3) Buy and share a subscription to AlgoExpert and Leetcode.
+(4) Create an application timeline
+	(a) Stewart
+		(i) NVIDIA
+		(ii) Broadcom
+		(iii) Google
+		(iv) Microsoft
+	(b) Andy
+
+
+Videos
+------
+
+>>>Video #1<<<
 
 Tech With Tim
 How to PASS a Coding Interview - Tips, Advice & Resources
 https://www.youtube.com/watch?v=ckW4cUqui_w
+
 Tech With Tim recommends:
-AlgoExpert https://www.algoexpert.io/techwithtim
-Leetcode Premium https://leetcode.com/subscribe/
+(A) AlgoExpert https://www.algoexpert.io/techwithtim
+(B) Leetcode Premium https://leetcode.com/subscribe/
+
+My steps for solving interview questions
+(1) Analyze the problem thoroughly
+(2) Reduce ambiguity and ask the necessary questions 
+(3) Diagram or draw out the problem 
+(4) Consider different solutions and their space time complexity
+(5) Choose the best solution you can implement in the time given
+(6) Discuss and explain in-depth exactly what you are going to do
+(7) Convince the interviewer your solution is correct before you start coding 
+(8) Translate your solution to code while explaining each step as you go (ensure it does seem like you are merely reciting a memorized solution)
+(9) Communicate with your interviewer about your thought process and listen for any potential feedback or hints from them
+(10) If your interviewer gives you a hint ensure you incorporate it into your solution
+(11) Talk about advantages and disadvantages of your solution and the space time complexity
+
+
+>>>Video #2<<<
+
+NeetCode
+Top 5 Dynamic Programming Patterns for Coding Interviews - For Beginners
+https://www.youtube.com/watch?v=mBNrRy2_hVs
+
+(1) Fibonacci Numbers
+	(a) Climbing Stairs
+		(i) Problem: https://leetcode.com/problems/climbing-stairs/
+		(ii) Solution: https://youtu.be/Y0lT9Fck7qI
+	(b) House Robber
+		(i) Problem: https://leetcode.com/problems/house-robber/
+		(ii) Solution: https://youtu.be/73r3KWiEvyk
+	(c) Fibonacci Number
+		(i) Problem: https://leetcode.com/problems/fibonacci-number/
+		(ii) Solution: 
+	(d) Maximum Alternating Subsequence Sum
+		(i) Problem: https://leetcode.com/problems/maximum-alternating-subsequence-sum/
+		(ii) Solution: https://youtu.be/4v42XOuU1XA
+(2) Zero / One Knapsack
+	(a) Partition Equal Subset Sum
+		(i) Problem: https://leetcode.com/problems/partition-equal-subset-sum/
+		(ii) Solution: https://youtu.be/IsvocB5BJhw
+	(b) Target Sum
+		(i) Problem: https://leetcode.com/problems/target-sum/
+		(ii) Solution: 
+(3) Unbounded Knapsack
+	(a) Coin Change
+		(i) Problem: https://leetcode.com/problems/coin-change/
+		(ii) Solution: https://youtu.be/H9bfqozjoqs
+	(b) Coin Change II
+		(i) Problem: https://leetcode.com/problems/coin-change-2/
+		(ii) Solution: 
+	(c) Minimum Cost for Tickets
+		(i) Problem: https://leetcode.com/problems/minimum-cost-for-tickets/
+		(ii) Solution: 
+(4) Longest Common Subsequence
+	(a) Longest Common Subsequence
+		(i) Problem: https://leetcode.com/problems/longest-common-subsequence/
+		(ii) Solution: https://youtu.be/Ua0GhsJSlWM
+	(b) Longest Increasing Subsequence
+		(i) Problem: https://leetcode.com/problems/longest-increasing-subsequence/
+		(ii) Solution: https://youtu.be/cjWnW0hdF1Y
+	(c) Edit Distance
+		(i) Problem: https://leetcode.com/problems/edit-distance/
+		(ii) Solution: https://youtu.be/XYi2-LPrwm4
+	(d) Distance Subsequences
+		(i) Problem: https://leetcode.com/problems/distinct-subsequences/
+		(ii) Solution: https://youtu.be/-RDzMJ33nx8
+(5) Palindromes
+	(a) Longest Palindromic Substring
+		(i) Problem: https://leetcode.com/problems/longest-palindromic-substring
+		(ii) Solution: https://youtu.be/XYQecbcd6_c
+	(b) Palindromic Substrings
+		(i) Problem: https://leetcode.com/problems/palindromic-substrings/
+		(ii) Solution: https://youtu.be/4RACzI5-du8
+	(c) Longest Palindromic Subsequence
+		(i) Problem: https://leetcode.com/problems/longest-palindromic-subsequence/
+		(ii) Solution: 
+		
+>>>Video #3<<<
+
+Clément Mihailescu
+The 10 Most Important Concepts For Coding Interviews (algorithms and data structures)
+https://www.youtube.com/watch?v=Ge0Udbws1kc
+
+1. Logarithm (Complexity Analysis)
+2. Graph Traversals (BFS & DFS)
+3. Binary Search
+4. Sliding Window 
+5. Recursion
+6. 2 Algorithms (Inverting a binary tree & Reverse a Linked List)
+7. Suffix Trees
+8. Heaps
+9. DP
+10. Sorting Algorithms (Quick & Merge)
+		
+Tutorial Websites
+-----------------
 
 freeCodeCamp
 https://www.freecodecamp.org/learn
