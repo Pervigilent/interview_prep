@@ -27,7 +27,7 @@ function quickSort(array) {
 
 function quickSort(array) {
   // Only change code below this line
-	if (array.length <= 1) {
+	if (array.length < 2) {
 		return array;
 	}
 
